@@ -1,7 +1,7 @@
 from selenium import webdriver
 import time
-EMAIL = "koshtiakanksha12@gmail.com"
-PASSWORD = "12M@y2001"
+EMAIL = "yours"
+PASSWORD = "yours"
 URL = "https://www.linkedin.com/jobs/search/?f_AL=true&f_JT=I&f_WT=2&geoId=102713980&keywords=python%20developer&location=India"
 
 chrome_driver_path = r"C:\Users\kosht\OneDrive\Desktop\chromedriver.exe"
